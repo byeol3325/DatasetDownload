@@ -26,6 +26,7 @@ After setting up your information, run the following command in your terminal or
 
 ```bash
 python Download_Nuscenes.py
+
 ✅ Log in to the NuScenes server using your email and password.
 ✅ Download all NuScenes dataset files to your specified folder.
 ✅ Verify the files using MD5 checksums to make sure the download is correct.
