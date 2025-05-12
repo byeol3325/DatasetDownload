@@ -3,9 +3,9 @@ This repository provides a simple Python script to **download and extract the en
 You don't need to run multiple commands — just edit one file and run it! The script will handle everything, including verifying and extracting files.
 
 
-## 🚗 **Nuscenes Dataset Download Guide**
+## **Nuscenes Dataset Download Guide**
 
-### 🔧 **Step 1: Set Up Your Information**
+### **Step 1: Set Up Your Information**
 
 Before running the script, you need to edit some settings in the `Download_NuScenes.py` file.  
 Look for the section below and replace the placeholders with your own information:
@@ -20,7 +20,7 @@ region = 'asia'                    # Choose the region: 'us' or 'asia'
 ```
 
 
-### 💻 **Step 2: Run the Script. Just Type It!!!!**
+### **Step 2: Run the Script. Just Type It!!!!**
 
 After setting up your information, run the following command in your terminal or command prompt:
 
@@ -35,7 +35,7 @@ python Download_Nuscenes.py
 
 
 
-### 🙏 **Acknowledge**
+### **Acknowledge**
 
 Special thanks to the open-source project that made this work possible:
 
